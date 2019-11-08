@@ -10,6 +10,5 @@ Anak ke       : 2
 Lokasi SD-SMA : Kabupaten Badung, Bali
 Kuliah S-1    : Universitas Gadjah Mada
 Pekerjaan     : Intensive Development Program di PT. Berlian Sistem Informasi
-Hobby         : Games, sepakbola, badminton
 
 Sekian, terima kasih telah membaca. 
