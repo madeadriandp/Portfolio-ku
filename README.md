@@ -1,5 +1,4 @@
-# Porfolio-ku
-Repository tentang aku
+# Portfolio-ku
 
 Halo!
 
