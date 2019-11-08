@@ -8,7 +8,7 @@ Nama lengkapku adalah Martinus I Made Adrian Dwiputra. Ini adalah portfolio sing
 Tempat lahir  : Tangeb, Bali
 Anak ke       : 2
 Lokasi SD-SMA : Kabupaten Badung, Bali
-Kuliah S-1    : Universitas Gadjah Mada
+Kuliah        : Universitas Gadjah Mada
 Pekerjaan     : Intensive Development Program di PT. Berlian Sistem Informasi
 
 Sekian, terima kasih telah membaca. 
